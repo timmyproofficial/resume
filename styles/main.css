@@ -54,12 +54,12 @@ li {
   margin: 0 auto;
 }
 
-.hero {
+/* .hero {
   position: sticky;
   top: 0;
   z-index: 10;
   background-color: var(--mainBgColor-dark);
-}
+} */
 
 .section--page {
   padding-top: 1em;
